@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "forty_jekyll_theme"
-  spec.version       = "1.2"
-  spec.authors       = ["Andrew Banchich"]
-  spec.email         = ["andrewbanchich@gmail.com"]
+  spec.name          = "Open Thrift"
+  spec.version       = "1"
+  spec.authors       = ["Luke Terry"]
+  spec.email         = ["luke.h.terry-1@ou.edu"]
 
-  spec.summary       = %q{A Jekyll version of the "Forty" theme by HTML5 UP.}
-  spec.homepage      = "https://andrewbanchich.github.io/forty-jekyll-theme/"
-  spec.license       = "MIT"
+  spec.summary       = %q{}
+  spec.homepage      = "https://luketerry.github.io/"
+  spec.license       = "UNLICENSED"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
 
