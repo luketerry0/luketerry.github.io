@@ -2,7 +2,7 @@
 title: Open Thrift
 subtitle: 
 email: luke.h.terry-1@ou.edu
-description: Open Thrift is a new platform for college students to buy and sell goods.
+description: Open Thrift is an easy to use mobile web application which will help college students efficiently and safely buy and sell goods.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 form_id:  # formspree endpoint
@@ -12,11 +12,11 @@ author:
 # state: TN
 # zip_code: 55555
 # country: United States of America
- phone: (414) 837-8183
+phone: 414-837-8183
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
