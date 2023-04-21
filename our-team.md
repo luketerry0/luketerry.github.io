@@ -3,7 +3,7 @@ layout: post
 title: Our Team
 description: Our Team
 image:
-nav-menu: true
+nav-menu: false
 ---
 
 
